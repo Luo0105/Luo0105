@@ -7,11 +7,23 @@ My current research focuses on a multimodal classification project involving col
 I hold a Bachelor of Science in Electronic and Information Engineering from Nankai University (2023), which has provided me with a solid foundation in mathematics and engineering for my work in AI. I am always keen on learning best practices and standards in software engineering.
 
 #### 🚀 My Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
+* **Proficient & Frequent Use:**
+    <p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    </p>
+* **Learned the Basics in Schools:**
+    <p>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </p>
+* **Currently Learning:**
+    <p>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+    </p>
+
 
 #### 📫 How to reach me
 * **Email:** luo0515@gmail.com
@@ -32,11 +44,23 @@ I hold a Bachelor of Science in Electronic and Information Engineering from Nank
 我本科毕业于南开大学电子信息工程专业，并于2023年获得理学学士学位，这为我在人工智能领域的研究奠定了坚实的数理和工程基础。我始终热衷于学习软件工程的最佳实践与行业标准。
 
 #### 🚀 我的技能栈
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
+* **熟练常用:**
+    <p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    </p>
+* **学校中学习了基础:**
+    <p>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </p>
+* **正在学习:**
+    <p>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+    </p>
+
 
 #### 📫 如何联系我
 * **邮箱:** luo0515@gmail.com 
@@ -57,11 +81,23 @@ I hold a Bachelor of Science in Electronic and Information Engineering from Nank
 2023年に南開大学の電子情報工学科を卒業し、理学士号を取得しました。この学歴が、現在のAI研究における数理的および工学的な基礎となっています。また、ソフトウェア工学におけるベストプラクティスと業界標準を学ぶことに常に関心を持っています。
 
 #### 🚀 私の技術スタック
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
+* **習熟しており、頻繁に使用:**
+    <p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    </p>
+* **学校で基礎を学習:**
+    <p>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </p>
+* **現在学習中:**
+    <p>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+    </p>
+
 
 #### 📫 連絡先
 * **メール:** `luo0515@gmail.com`
