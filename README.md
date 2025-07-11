@@ -24,7 +24,7 @@ I hold a Bachelor of Science in Electronic and Information Engineering from Nank
     <p>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE4LjU4NCAxNC4xMDRMMTAuMjYgMS4zODJBLjUuNSAwIDAgMCA5Ljc5Ni45NEwzLjM2OCAzLjQyYS41LjUgMCAwIDAgMCAuNzQ2bDUuNzEgNC4xODZMMTMuNjA2IDFsNC45NzggMy4xMDVINi4xNDJhLjUuNSAwIDAgMC0uNDk4LjQ5OHYxOS45MDhhLjUuNSAwIDAgMCAuNSA1aDE4LjcwNGMuMjggMCAuNS0uMjIuNS0uNWwxLjA4NC0xOC40MjJhLjUuNSAwIDAgMC0uNS0uNTU4eiIvPjwvc3ZnPg==&logoColor=white" />
       <img src="https://img.shields.io/badge/MONAI-00AEEF?style=for-the-badge&logo=monai&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     </p>
