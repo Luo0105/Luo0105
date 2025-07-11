@@ -18,7 +18,7 @@ I hold a Bachelor of Science in Electronic and Information Engineering from Nank
     <p>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/MCU-Embedded_C-283458?style=for-the-badge&logo=microchip&logoColor=white" />
+      <img src="https://img.shields.io/badge/MCU-Embedded_C-283458?style=for-the-badge&logo=arduino&logoColor=white" />
     </p>
 * **Currently Learning:**
     <p>
@@ -60,7 +60,7 @@ I hold a Bachelor of Science in Electronic and Information Engineering from Nank
     <p>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/MCU-Embedded_C-283458?style=for-the-badge&logo=microchip&logoColor=white" />
+      <img src="https://img.shields.io/badge/MCU-Embedded_C-283458?style=for-the-badge&logo=arduino&logoColor=white" />
     </p>
 * **正在学习:**
     <p>
@@ -102,7 +102,7 @@ I hold a Bachelor of Science in Electronic and Information Engineering from Nank
     <p>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/MCU-Embedded_C-283458?style=for-the-badge&logo=microchip&logoColor=white" />
+      <img src="https://img.shields.io/badge/MCU-Embedded_C-283458?style=for-the-badge&logo=arduino&logoColor=white" />
     </p>
 * **現在学習中:**
     <p>
