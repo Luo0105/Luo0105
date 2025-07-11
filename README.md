@@ -39,8 +39,7 @@ I hold a Bachelor of Science in Electronic and Information Engineering from Nank
 </p>
 
 #### 📫 如何联系我
-* **邮箱:** luo0515@gmail.com
-* **领英 (LinkedIn):** 
+* **邮箱:** luo0515@gmail.com 
 
 </details>
 
