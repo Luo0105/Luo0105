@@ -10,6 +10,7 @@ I hold a Bachelor of Science in Electronic and Information Engineering from Nank
 * **Proficient & Frequent Use:**
     <p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
     </p>
 * **Learned the Basics in Schools:**
@@ -47,6 +48,7 @@ I hold a Bachelor of Science in Electronic and Information Engineering from Nank
 * **熟练常用:**
     <p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
     </p>
 * **学校中学习了基础:**
@@ -84,6 +86,7 @@ I hold a Bachelor of Science in Electronic and Information Engineering from Nank
 * **習熟しており、頻繁に使用:**
     <p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
     </p>
 * **学校で基礎を学習:**
